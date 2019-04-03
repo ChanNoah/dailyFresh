@@ -1,2 +1,2 @@
-# go_beego_E-commerce
+# go beego E-commerce
 E-commerce website
